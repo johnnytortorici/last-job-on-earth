@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "CEO",
+    "vote_count": 1
+  },
+  {
+    "id": "2",
+    "name": "Politician",
+    "vote_count": 0
+  },
+  {
+    "id": "3",
+    "name": "Farmer",
+    "vote_count": 0
+  },
+  {
+    "id": "4",
+    "name": "Caregiver",
+    "vote_count": 0
+  },
+  {
+    "id": "5",
+    "name": "Web developer",
+    "vote_count": 0
+  }
+]
